@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreMusic.Api", "CoreMusic.Api\CoreMusic.Api.csproj", "{4349EAF2-32EF-4758-8BC4-6EFBF933F191}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreMusic.Api", "src\CoreMusic.Api\CoreMusic.Api.csproj", "{4349EAF2-32EF-4758-8BC4-6EFBF933F191}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreMusic.Core", "CoreMusic.Core\CoreMusic.Core.csproj", "{9AC975C2-6C3D-46A3-BAEE-989229D721D9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreMusic.Core", "src\CoreMusic.Core\CoreMusic.Core.csproj", "{9AC975C2-6C3D-46A3-BAEE-989229D721D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreMusic.Data", "CoreMusic.Data\CoreMusic.Data.csproj", "{5E922CCF-7102-4187-93EE-1C5AF5DC5859}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreMusic.Data", "src\CoreMusic.Data\CoreMusic.Data.csproj", "{5E922CCF-7102-4187-93EE-1C5AF5DC5859}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreMusic.Services", "CoreMusic.Services\CoreMusic.Services.csproj", "{9D767123-70F2-406A-B686-F3789C0672D7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreMusic.Services", "src\CoreMusic.Services\CoreMusic.Services.csproj", "{9D767123-70F2-406A-B686-F3789C0672D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
