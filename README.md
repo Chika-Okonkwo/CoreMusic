@@ -6,7 +6,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 * [NET Core SDK](https://dotnet.microsoft.com/download) - For building and running .Net Core applications 
-* [MS SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) - The project database target
+* [MS SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) - The project target database
 
 ### Running
 Change the connection string properties of the default connection from the appsetings.json located in the API folder - src/CoreMusic.API
